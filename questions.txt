@@ -1,0 +1,2 @@
+what are meta tags for? (probably something with SEO)
+what is akismet (look at configatron)
